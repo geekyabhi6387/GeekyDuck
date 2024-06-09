@@ -1,2 +1,2 @@
 # GeekyDuck
-First Discord Bot using JS 
+A simple Discord Bot using discord.js library 
